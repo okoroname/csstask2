@@ -1,0 +1,46 @@
+.flex-container{
+    display:flex;
+    justify-content: center;
+}
+.base-aparel{
+    width:700px;
+    height: 1000px;
+    
+}
+.hero-desktop{
+    width:700px;
+    height: 1000px;
+    
+}
+.hero-desktop-image{
+    width: 700px;
+    height: 1000px;
+}
+h1{
+    text-align: left;
+}
+div {
+    background-image: url(./images/bg-pattern-desktop.svg);
+}
+.we-are{
+    color: burlywood;
+}
+body{
+    font-size: 16px;
+    font-family: @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;300&display=swap');
+    font-weight: 300, 400, 600;
+     
+}
+.input1{
+    border-radius: 30px;
+    height: 30px;
+}
+.button1{
+    margin: -10px;
+    border-radius: 10px;
+    background-image: url(./images/icon-arrow.svg);
+}
+
+.flex-input{
+    display: flex;
+}
